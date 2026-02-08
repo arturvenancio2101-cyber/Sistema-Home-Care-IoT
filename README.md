@@ -33,7 +33,11 @@ Este projeto foi desenhado para rodar em um ambiente distribuído (Sensores via 
 
 ### 🎥 Demonstração do Projeto
 
-[![Assista ao vídeo](https://www.youtube.com/watch?v=XDO5FzYNTe4)](https://youtube.com/shorts/LbA6UpkCn2g?si=-O37LMx2275_IpyP)
+[![Assista ao vídeo]
+
+(https://www.youtube.com/watch?v=XDO5FzYNTe4)]
+
+(https://youtube.com/shorts/LbA6UpkCn2g?si=-O37LMx2275_IpyP)
 
 > Clique na imagem acima para ver a detecção de quedas e o alerta na Alexa em funcionamento.
 
