@@ -31,5 +31,12 @@ Monitoramento ambiental passivo.
 ## 📋 Como executar
 Este projeto foi desenhado para rodar em um ambiente distribuído (Sensores via Raspberry Pi Zero W comunicando com servidor central Home Assistant). Os scripts Python nos arquivos deste repositório devem ser executados nos respectivos dispositivos de borda.
 
+### 🎥 Demonstração do Projeto
+
+[![Assista ao vídeo](https://www.youtube.com/watch?v=XDO5FzYNTe4)](https://youtube.com/shorts/LbA6UpkCn2g?si=-O37LMx2275_IpyP)
+
+> Clique na imagem acima para ver a detecção de quedas e o alerta na Alexa em funcionamento.
+
+
 ---
 *Autor: Artur Venancio Pacheco - Estudante de Engenharia Eletrônica UFSC*
