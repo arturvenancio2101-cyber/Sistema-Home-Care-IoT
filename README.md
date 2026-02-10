@@ -39,8 +39,6 @@ Este projeto foi desenhado para rodar em um ambiente distribuído (Sensores via 
 
 (https://youtube.com/shorts/LbA6UpkCn2g?si=-O37LMx2275_IpyP)
 
-> Clique na imagem acima para ver a detecção de quedas e o alerta na Alexa em funcionamento.
-
 
 ---
 *Autor: Artur Venancio Pacheco - Estudante de Engenharia Eletrônica UFSC*
